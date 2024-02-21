@@ -10,7 +10,7 @@ BLACK = (1, 1, 1)
 windowWidth = 850
 windowHeight = 650
 screen = pygame.display.set_mode((windowWidth, windowHeight))
-pygame.display.set_caption("Typing Game by Amir")
+pygame.display.set_caption("Typing Game by amirSadulloev")
 
 font = pygame.font.SysFont(None, 50)
 
