@@ -87,7 +87,7 @@ while True:
                     game_over()
                 else:
                     new_word()
-                    time.sleep(0.5)  # Delay for 0.5 seconds after mistake
+                    time.sleep(0.2)  # Delay for 0.5 seconds after mistake
 
     word_y += word_speed
     if word_y > windowHeight:
